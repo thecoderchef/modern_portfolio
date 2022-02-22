@@ -1,0 +1,16 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Sunny Ogbari",
+  "license": "MIT",
+  "dependencies": {
+    "g": "^2.0.1",
+    "node-sass": "^7.0.1",
+    "touch-cli": "^0.0.1"
+  }
+}
